@@ -1,3 +1,12 @@
+This project forecast on Redux
+
+#we are using sementic UI for styling the app :
+https://cdnjs.com/libraries/semantic-ui
+which you will copy the link and pest it at public index.js
+
+#Api
+https://fakestoreapi.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

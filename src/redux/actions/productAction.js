@@ -13,3 +13,8 @@ import {ActionTypes} from '../constants/actionTypes';
         payload:product
     }
  }
+ export const removeSelectedProducts=()=>{
+    return{
+        type:ActionTypes.REMOVE_SELECTED_PRODUCTS,
+    }
+ }

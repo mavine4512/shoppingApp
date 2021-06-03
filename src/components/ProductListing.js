@@ -9,7 +9,7 @@ const ProductListing=()=>{
 
     const products=useSelector((state)=>state);
     const dispatch =useDispatch();
-    console.log('products data: ',products)
+    // console.log('products data: ',products)
 
     const fetchProducts= async ()=>{
 

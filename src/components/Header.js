@@ -1,10 +1,11 @@
 import React from "react";
+import'../App.css'
 
 const Header=()=>{
     return(
-        <div className="ui fixed menu">
-            <div className="ui container center">
-               <h2>Shop</h2>
+        <div className="menu">
+            <div className="container">
+               <h2 className="menuText">Shop with us</h2>
             </div>
         </div>
     )

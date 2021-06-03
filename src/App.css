@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  /*width: 80%;*/
 }
 
 .App-logo {
@@ -35,4 +36,33 @@
   to {
     transform: rotate(360deg);
   }
+}
+.menu{
+  border-color:ghostwhite ;
+  justify-content: left;
+  align-items: flex-end;
+}
+.container{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.menuText{
+  font-size: 18px;
+  font-family: "Sofia", sans-serif;
+  font-weight: bold;
+  text-align:left;
+  margin-left: 20px;
+}
+.card{
+  margin-top: 2px;
+  width: 20%;
+  height: 20%;
+}
+/*.cardImage{*/
+/*  width:300px;*/
+/*  height:300px;*/
+/*  border-radius: 8px;*/
+/*}*/
+.linkCards{
+  background-color: red;
 }
